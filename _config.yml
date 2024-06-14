@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+title: Sofia Meroni
+description: Porfolio de Sofia.
+url: https://tu-usuario.github.io/SofiaMeroni.github.io
+baseurl: /SofiaMeroni.github.io  
