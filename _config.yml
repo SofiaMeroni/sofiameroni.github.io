@@ -1,4 +1,4 @@
-remote_theme: pages-themes/cayman
+theme: jekyll-theme-cayman
 
 title: Sofia Meroni
 description: Porfolio de Sofia.
