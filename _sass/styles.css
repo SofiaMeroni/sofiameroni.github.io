@@ -1,0 +1,13 @@
+/* styles.css */
+
+/* Estilo para la imagen de perfil */
+.profile-image {
+    position: absolute;
+    top: 20px; /* Ajusta la posición desde la parte superior */
+    right: 20px; /* Ajusta la posición desde la derecha */
+    width: 150px; /* Ajusta el tamaño de la imagen según sea necesario */
+    height: auto; /* Mantén la proporción de la imagen */
+    border-radius: 50%; /* Borde redondeado si es una foto de perfil */
+    border: 2px solid #ffffff; /* Borde blanco opcional */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave opcional */
+}
