@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# ¡Hola, soy [Tu Nombre]!
+# ¡Hola, soy Sofia!
 
-Desarrollador apasionado por la tecnología, con experiencia en...
+Soy sofia sofia...
