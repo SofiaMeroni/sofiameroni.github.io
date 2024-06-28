@@ -1,3 +1,16 @@
-title: tema sofi
-description: Sofia
+title: Sofia Meroni
+description: Mi porfolio.
+show_downloads: true
 theme: jekyll-theme-cayman
+color:
+  header: "#000"
+  gradient_left: "#e53935"
+  gradient_right: "#f57c00"
+logo_url: https://github.githubassets.com/images/icons/emoji/octocat.png
+syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
+buttons:
+  zip_url: https://github.com/SofiaMeroni/SofiaMeroni.github.io/blob/main/_sass/styles.css
+  zip_title: View Documentation
+  zip_hide: false
+  tar_hide: true
+  github_hide: true
