@@ -2,7 +2,7 @@
 layout: default
 title: "Mi Portafolio"
 description: "Desarrollador apasionado por la tecnología"
----
+
 <link rel="stylesheet" href="/assets/css/styles.css">
 
 <div class="header">
