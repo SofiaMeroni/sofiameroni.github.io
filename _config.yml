@@ -1,8 +1,21 @@
-title: Sofia Meroni
-description: Mi porfolio.
-theme: jekyll-theme-cayman
-color:
+title: sofia  # Título de tu sitio
+description: adios.  # Descripción de tu sitio
+show_downloads: true  # Mostrar enlaces de descarga
+
+remote_theme: pages-themes/cayman@v0.2.0  # Tema remoto Cayman
+
+color:  # Personalización de colores
   header: "#000"
   gradient_left: "#e53935"
   gradient_right: "#f57c00"
-logo_url: https://github.githubassets.com/images/icons/emoji/octocat.png
+
+logo_url: https://github.githubassets.com/images/icons/emoji/octocat.png  # URL del logo
+
+syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css  # Tema de sintaxis
+
+buttons:  # Configuración de botones
+  zip_url: https://github.com/SofiaMeroni/SofiaMeroni.github.io/blob/main/_config.yml
+  zip_title: View Documentation
+  zip_hide: false
+  tar_hide: true
+  github_hide: true
