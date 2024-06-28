@@ -7,10 +7,8 @@ description: "Desarrollador apasionado por la tecnología"
 
 <div class="header">
   <img src="/assets/images/Foto.jpg" alt="Foto de perfil" class="profile-image">
-  <div>
-    <h1>{{ page.title }}</h1>
-    <p>{{ page.description }}</p>
-  </div>
+  <h1>{{ page.title }}</h1>
+  <p>{{ page.description }}</p>
 </div>
 
 # ¡Hola, soy [Tu Nombre]!
