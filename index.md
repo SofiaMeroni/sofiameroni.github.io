@@ -1,7 +1,8 @@
 ---
-! [Foto de perfil](/assets/images/Foto.jpg)
 layout: default
 ---
+
+![Foto de perfil](/assets/images/Foto.jpg)
 
 # ¡Hola, soy [Tu Nombre]!
 
