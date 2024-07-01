@@ -1,0 +1,25 @@
+// Importar estilos base del tema Cayman u otro tema base
+@import 'jekyll-theme-cayman';
+
+// Variables de tema personalizable desde _config.yml
+$primary-color: {{ site.theme_options.primary_color }};
+$secondary-color: {{ site.theme_options.secondary_color }};
+$dark-mode-enabled: {{ site.theme_options.dark_mode_enabled }};
+
+// Estilos específicos para el modo oscuro
+{% if $dark-mode-enabled %}
+  @import 'darkmode'; // Importar estilos específicos del modo oscuro si está habilitado
+{% endif %}
+
+// Estilos generales usando las variables definidas
+body {
+  background-color: $primary-color;
+  color: $secondary-color;
+}
+
+.header {
+  background-color: $secondary-color;
+  color: $primary-color;
+}
+
+// Otros estilos usando las variables definidas

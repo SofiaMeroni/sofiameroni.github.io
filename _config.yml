@@ -1,3 +1,7 @@
 title: sofia  # Título de tu sitio
 description: adios.  # Descripción de tu sitio
 show_downloads: false
+theme_options:
+  dark_mode_enabled: true
+  primary_color: "#157878"
+  secondary_color: "#f5bba4"
