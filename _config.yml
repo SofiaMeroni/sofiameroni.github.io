@@ -1,19 +1,8 @@
 title: sofia  # Título de tu sitio
 description: adios.  # Descripción de tu sitio
-show_downloads: true  # Mostrar enlaces de descarga
+show_downloads: false
+#icono
+head:
+  - '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">'
 
-remote_theme: pages-themes/cayman@v0.2.0  # Tema remoto Cayman
-
-color:  # Personalización de colores
-  header: "#f5bba4"
-  gradient_left: "#2be194"
-  gradient_right: "#ed642d"
-
-logo_url: <i class="fa-thin fa-crow"></i> # URL del logo
-
-buttons:  # Configuración de botones
-  zip_url: https://github.com/SofiaMeroni/SofiaMeroni.github.io/blob/main/_config.yml
-  zip_title: View Documentation
-  zip_hide: false
-  tar_hide: true
-  github_hide: true
+<i class="fa-thin fa-crow"></i>
