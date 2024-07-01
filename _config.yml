@@ -1,7 +1,3 @@
 title: sofia  # Título de tu sitio
 description: adios.  # Descripción de tu sitio
 show_downloads: false
-color:
-  header: "#000"
-  gradient_left: "#e53935"
-  gradient_right: "#f57c00"
