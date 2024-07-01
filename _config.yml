@@ -9,9 +9,7 @@ color:  # Personalización de colores
   gradient_left: "#2be194"
   gradient_right: "#ed642d"
 
-logo_url:  # URL del logo
-
-syntax_theme: <i class="fa-thin fa-crow"></i>  # Tema de sintaxis
+logo_url: <i class="fa-thin fa-crow"></i> # URL del logo
 
 buttons:  # Configuración de botones
   zip_url: https://github.com/SofiaMeroni/SofiaMeroni.github.io/blob/main/_config.yml
