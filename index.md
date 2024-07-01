@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# ¡Hola, soy Sofia!
+# hola lola loca
 
 Soy sofia sofia...

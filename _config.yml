@@ -5,13 +5,13 @@ show_downloads: true  # Mostrar enlaces de descarga
 remote_theme: pages-themes/cayman@v0.2.0  # Tema remoto Cayman
 
 color:  # Personalización de colores
-  header: "#000"
-  gradient_left: "#e53935"
-  gradient_right: "#f57c00"
+  header: "#f5bba4"
+  gradient_left: "#2be194"
+  gradient_right: "#ed642d"
 
-logo_url: https://github.githubassets.com/images/icons/emoji/octocat.png  # URL del logo
+logo_url:  # URL del logo
 
-syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css  # Tema de sintaxis
+syntax_theme: <i class="fa-thin fa-crow"></i>  # Tema de sintaxis
 
 buttons:  # Configuración de botones
   zip_url: https://github.com/SofiaMeroni/SofiaMeroni.github.io/blob/main/_config.yml
