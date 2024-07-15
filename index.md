@@ -99,3 +99,77 @@ Soy una gran fan de las bromas de Chuck Norris y decidí crear una base de datos
 
 
 ---
+
+<style>
+body {
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  background-color: #f9f9f9;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #5A5A5A;
+}
+
+a {
+  color: #1E90FF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+#main-header {
+  background: #333;
+  color: #fff;
+  padding-top: 30px;
+  min-height: 70px;
+  border-bottom: #0779e4 3px solid;
+}
+
+#main-header h1 {
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+  font-size: 24px;
+}
+
+#main-footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
+  padding: 20px;
+}
+
+.card img {
+  border-radius: 10px;
+  max-width: 100%;
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+.card p {
+  color: #777;
+}
+</style>
