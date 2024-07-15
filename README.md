@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Maira Moreno - QA Automation Engineer
+title: Sofia Meroni - QA Automation Engineer
 ---
 
 ## Sobre Mí
@@ -14,19 +14,19 @@ Me apasiona fomentar la implementación de principios ágiles, eliminando obstá
 ## Experiencia Profesional
 
 ### Ceibal
-**QA Automation Engineer | Enero 2020 - Diciembre 2021**
+**QA Automation Engineer | 2022 - 2024**
 - Desarrollé scripts de pruebas de automatización usando Selenium y Python.
 - Planifiqué y ejecuté pruebas de performance usando JMeter.
 - Aseguré solidez y confiabilidad del sistema mediante abordaje completo de escenarios.
 
 ### DaCodes
-**QA Automation Engineer | Enero 2022 - Diciembre 2022**
+**QA Automation Engineer | 2021 - 2023**
 - Diseñé estrategias de pruebas funcionales y de base de datos SQL.
 - Trabajé en conjunto con el equipo de desarrollo para fomentar una cultura de buenas prácticas.
 - Implementé un sistema de reporte de pruebas mejorando la velocidad de ejecución en un 17%.
 
 ### Contractor
-**QA Automation Engineer | Enero 2023 - Presente**
+**QA Automation Engineer | 2023 - Presente**
 - Colaboré en procesos migratorios asegurando la calidad de sistemas financieros.
 - Implementé pruebas de seguridad y mitigación de vulnerabilidades.
 - Ejecuté pruebas de rendimiento y análisis detallado de requisitos.
@@ -94,82 +94,8 @@ Soy una gran fan de las bromas de Chuck Norris y decidí crear una base de datos
 ---
 
 ## Contacto
-- **Correo**: [maira.moreno@gmail.com](mailto:maira.moreno@gmail.com)
-- **LinkedIn**: [www.linkedin.com/in/mairamoreno](https://www.linkedin.com/in/mairamoreno)
+- **Correo**: [sofiameroni.sm@gmail.com](mailto:sofiameroni.sm@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/sofiameroni](www.linkedin.com/in/sofiameroni)
+
 
 ---
-
-<style>
-/* Estilos adicionales para un diseño moderno y atractivo */
-body {
-  font-family: 'Arial', sans-serif;
-  color: #333;
-  background-color: #f9f9f9;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: #5A5A5A;
-}
-
-a {
-  color: #1E90FF;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-.container {
-  width: 80%;
-  margin: auto;
-  overflow: hidden;
-}
-
-#main-header {
-  background: #333;
-  color: #fff;
-  padding-top: 30px;
-  min-height: 70px;
-  border-bottom: #0779e4 3px solid;
-}
-
-#main-header h1 {
-  text-align: center;
-  text-transform: uppercase;
-  margin: 0;
-  font-size: 24px;
-}
-
-#main-footer {
-  background: #333;
-  color: #fff;
-  text-align: center;
-  padding: 20px;
-  margin-top: 40px;
-}
-
-.card {
-  background: #fff;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  margin: 20px 0;
-  padding: 20px;
-}
-
-.card img {
-  border-radius: 10px;
-  max-width: 100%;
-}
-
-.card h3 {
-  margin-top: 0;
-}
-
-.card p {
-  color: #777;
-}
-</style>
