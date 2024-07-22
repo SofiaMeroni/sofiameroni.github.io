@@ -84,7 +84,6 @@ Soy una gran fan de las bromas de Chuck Norris y decidí crear una base de datos
 
 ## Educación
 **Facultad de Ingeniería, Universidad de [Nombre de la Universidad]**
-* Sistemas de Computación | 2023 - Presente
 
 ---
 
