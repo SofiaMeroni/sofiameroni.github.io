@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ site.lang | default: "en-US" }}">
 <head>
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <link rel="stylesheet" href="{{ "assets\style.scss" | relative_url }}">
+  <!-- Aquí puedes agregar cualquier meta información si es necesario -->
 </head>
 <body>
   <header>
@@ -12,7 +11,7 @@
         <li><a href="{{ "/about" | relative_url }}">Sobre Mí</a></li>
         <li><a href="{{ "/projects" | relative_url }}">Proyectos</a></li>
         <li><a href="{{ "/certifications" | relative_url }}">Certificaciones</a></li>
-        <li><a href="{{ "/skills" | relative_url }}">Contacto</a></li>
+        <li><a href="{{ "/skills" | relative_url }}">Habilidades</a></li>
         <li><a href="{{ "/contact" | relative_url }}">Contacto</a></li>
       </ul>
     </nav>
