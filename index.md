@@ -1,8 +1,6 @@
 ---
 title: Home
 layout: default
-nav_order: 1
-tags: home
 ---
 
 # Maira Moreno

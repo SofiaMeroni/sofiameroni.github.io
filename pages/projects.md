@@ -1,8 +1,6 @@
 ---
-title: Proyects
+title: Proyectos
 layout: default
-nav_order: 5
-permalink: /proyects
 ---
 # Proyectos
 

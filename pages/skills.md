@@ -1,8 +1,6 @@
 ---
 title: Skills
 layout: default
-nav_order: 6
-permalink: /skills
 ---
 # Habilidades
 

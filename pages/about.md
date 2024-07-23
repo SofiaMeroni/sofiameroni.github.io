@@ -1,8 +1,6 @@
 ---
-title: About
+title: Sobre Mí
 layout: default
-nav_order: 2
-permalink: /about
 ---
 
 # Sobre Mí

@@ -1,8 +1,6 @@
 ---
 title: Certificaciones
 layout: default
-nav_order: 3
-permalink: /certificaciones
 ---
 # Certificaciones
 
