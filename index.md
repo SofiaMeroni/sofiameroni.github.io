@@ -1,6 +1,8 @@
 ---
+title: Home
 layout: default
-title: Maira Moreno - QA Automation Engineer
+nav_order: 1
+tags: home
 ---
 
 # Maira Moreno

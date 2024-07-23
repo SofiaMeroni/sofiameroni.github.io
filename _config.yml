@@ -6,18 +6,3 @@ description: "Portafolio Maira Moreno"
 author: Maira Moreno
 email: maira.moreno@gmail.com
 url: "https://sofiameroni.github.io/SofiaMeroni/" 
-
-# Configuración de navegación
-navigation:
-  - title: "Inicio"
-    url: "/"
-  - title: "Sobre Mí"
-    url: "/about"
-  - title: "Proyectos"
-    url: "/projects"
-  - title: "Habilidades"
-    url: "/skills"
-  - title: "Certificaciones"
-    url: "/certifications"
-  - title: "Contacto"
-    url: "/contact"

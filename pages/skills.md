@@ -1,8 +1,9 @@
 ---
+title: Skills
 layout: default
-title: Habilidades
+nav_order: 6
+permalink: /skills
 ---
-
 # Habilidades
 
 - **Lenguajes de Programación**: Python, JavaScript, HTML, CSS
