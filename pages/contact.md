@@ -1,6 +1,8 @@
 ---
-title: Contacto
+title: Cont
 layout: default
+nav_order: 6
+permalink: /cont
 ---
 # Contacto
 

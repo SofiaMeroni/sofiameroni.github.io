@@ -1,7 +1,10 @@
 ---
-title: Proyectos
+title: Proy
 layout: default
+nav_order: 3
+permalink: /proy
 ---
+
 # Proyectos
 
 ## Generador CURP

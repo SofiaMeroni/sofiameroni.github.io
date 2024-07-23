@@ -1,7 +1,10 @@
 ---
-title: Certificaciones
+title: Certi
 layout: default
+nav_order: 4
+permalink: /certi
 ---
+
 # Certificaciones
 
 - Jr Penetration Tester
