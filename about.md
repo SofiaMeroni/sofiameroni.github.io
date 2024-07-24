@@ -45,11 +45,11 @@ En DaCodes, diseñé y desarrollé scripts de automatización de pruebas avanzad
 Además de mi trabajo profesional, me encanta dedicar tiempo a proyectos personales que me permiten explorar nuevas tecnologías y mejorar mis habilidades:
 </div>
 
-<div style="line-height: 2.0;">
+<div style="margin-top: 20px; line-height: 1.6;">
   Generador_CURP: Este proyecto fue creado como una práctica para generar CURPs y almacenarlos en una base de datos. El objetivo fue explorar técnicas de generación de datos y gestión de bases de datos, aportando conocimientos valiosos para el manejo de grandes volúmenes de información.
 </div>
 
-<div style="line-height: 2.0;">
+<div style="margin-top: 20px; line-height: 1.6;">
   Base de Datos de Bromas de Chuck Norris: Soy una gran fan de las bromas de Chuck Norris y decidí crear una base de datos para almacenarlas y gestionarlas eficientemente. Este proyecto me permitió mejorar mis habilidades en el manejo de bases de datos y en la creación de APIs.
 </div>
 
