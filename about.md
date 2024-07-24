@@ -5,9 +5,11 @@ title: Sofia Meroni
 <div style="text-indent: 20px; line-height: 1.6;">
 Con más de tres años de experiencia en control de calidad, me especializo en impulsar la eficiencia y calidad en el desarrollo de software a través de la automatización de pruebas. Mi objetivo principal es reducir la intervención manual y maximizar la cobertura de pruebas mediante el uso de herramientas y scripts automatizados.
 </div>
+
 <div style="line-height: 1.6;">
 Me apasiona fomentar la implementación de principios ágiles, eliminando obstáculos y manteniendo un entorno de trabajo colaborativo y de alto rendimiento. Mi experiencia me ha permitido trabajar en diversas industrias, desarrollando soluciones innovadoras que aseguran la robustez y confiabilidad de los sistemas. 
 </div>
+
 <div style="line-height: 1.6;">
 Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente, aplicando mis conocimientos en ciberseguridad para garantizar sistemas seguros y eficientes.
 </div>
@@ -38,7 +40,6 @@ En mi tiempo en Ceibal, colaboré en un proceso migratorio crítico asegurando l
 En DaCodes, diseñé y desarrollé scripts de automatización de pruebas avanzadas utilizando Selenium y Python, logrando una reducción del 12% en el tiempo de ejecución de pruebas manuales. Implementé un sistema integral de reportes automatizados, mejorando la eficiencia y rapidez en la resolución de incidentes en un 17% por sprint. Planifiqué y optimicé pruebas de rendimiento utilizando JMeter, mejorando la estabilidad y velocidad de respuesta del sistema en un 20%.
 </div>
 
-
 ### Mis proyectos personales
 <div style="line-height: 1.6;">
 Además de mi trabajo profesional, me encanta dedicar tiempo a proyectos personales que me permiten explorar nuevas tecnologías y mejorar mis habilidades:
@@ -60,6 +61,7 @@ Además de mi trabajo profesional, me encanta dedicar tiempo a proyectos persona
 <div style="line-height: 1.6;">
 Me encanta cuidar de mis plantas en mi tiempo libre, disfrutando de la naturaleza y aprendiendo sobre diferentes especies y sus cuidados. También estoy iniciando un nuevo proyecto relacionado con plantas, donde exploraré la creación de una base de datos y una aplicación para gestionar información sobre diferentes tipos de plantas y sus necesidades.
 </div>
+
 <div style="line-height: 1.6;">
 Además, disfruto jugando a "Animal Jam: Play Wild," un juego en línea donde organizo eventos diarios desde hace dos años. Gestiono y dirijo un grupo de aproximadamente 25 personas para crear y llevar a cabo estos eventos, además de organizar sorteos y festivales para reunir jugadores. Esta experiencia me ha permitido desarrollar habilidades de liderazgo y organización, además de fomentar una comunidad activa y participativa.
 </div>
