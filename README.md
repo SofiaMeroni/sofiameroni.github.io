@@ -1,100 +1,64 @@
----
-layout: default
-title: Sofia Meroni - QA Automation Engineer
----
-
-## Sobre Mí
+## Sobre Mi
+<div style="text-indent: 20px; line-height: 2.0;">
 Con más de tres años de experiencia en control de calidad, me especializo en impulsar la eficiencia y calidad en el desarrollo de software a través de la automatización de pruebas. Mi objetivo principal es reducir la intervención manual y maximizar la cobertura de pruebas mediante el uso de herramientas y scripts automatizados.
+</div>
 
-Me apasiona fomentar la implementación de principios ágiles, eliminando obstáculos y manteniendo un entorno de trabajo colaborativo y de alto rendimiento. Mi experiencia me ha permitido trabajar en diversas industrias, desarrollando soluciones innovadoras que aseguran la robustez y confiabilidad de los sistemas. Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente, aplicando mis conocimientos en ciberseguridad para garantizar sistemas seguros y eficientes.
+<div style="line-height: 2.0;">
+Me apasiona fomentar la implementación de principios ágiles, eliminando obstáculos y manteniendo un entorno de trabajo colaborativo y de alto rendimiento. Mi experiencia me ha permitido trabajar en diversas industrias, desarrollando soluciones innovadoras que aseguran la robustez y confiabilidad de los sistemas. 
+</div>
 
+<div style="line-height: 2.0;">
+Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente, aplicando mis conocimientos en ciberseguridad para garantizar sistemas seguros y eficientes.
+</div>
 
----
+### Mi situación actual
+<div style="line-height: 2.0;">
+Actualmente trabajo como contratista, desarrollando scripts de automatización de pruebas utilizando Python y Selenium, mejorando la cobertura de pruebas y reduciendo el tiempo de prueba manual en un 10%. Además, implemento pruebas automatizadas para validar la integridad de datos en sistemas, mejorando la calidad general en un 15%.
+</div>
 
-## Experiencia Profesional
+### Mi stack hasta ahora
 
-### Ceibal
-**QA Automation Engineer | 2022 - 2024**
-- Desarrollé scripts de pruebas de automatización usando Selenium y Python.
-- Planifiqué y ejecuté pruebas de performance usando JMeter.
-- Aseguré solidez y confiabilidad del sistema mediante abordaje completo de escenarios.
-
-### DaCodes
-**QA Automation Engineer | 2021 - 2023**
-- Diseñé estrategias de pruebas funcionales y de base de datos SQL.
-- Trabajé en conjunto con el equipo de desarrollo para fomentar una cultura de buenas prácticas.
-- Implementé un sistema de reporte de pruebas mejorando la velocidad de ejecución en un 17%.
-
-### Contractor
-**QA Automation Engineer | 2023 - Presente**
-- Colaboré en procesos migratorios asegurando la calidad de sistemas financieros.
-- Implementé pruebas de seguridad y mitigación de vulnerabilidades.
-- Ejecuté pruebas de rendimiento y análisis detallado de requisitos.
-
----
-
-## Habilidades
-
-- **Lenguajes de Programación**: Python, JavaScript, HTML, CSS
-- **Herramientas de Automatización**: Selenium, JMeter
-- **Gestión de Versiones**: GitHub, Git
-- **Metodologías**: Agile, Scrum
-- **Otros**: SQL, Análisis de Requisitos, Planificación de Sprint, Pruebas de Performance
-
----
-
-## Certificaciones
-
-- [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YDLPSK9ABX.png)
-- [AWS Fundamentals](https://www.coursera.org/account/accomplishments/specialization/certificate/G3BCVTD3C87X)
-- [Cyber Incident Response](https://www.coursera.org/account/accomplishments/specialization/certificate/ZCKCTYQEH4SA)
-- [IBM Cybersecurity Analyst Professional Certificate](https://www.credly.com/badges/ac04109c-dd0c-49a3-8e61-d400184b15ff?source=linked_in_profile)
-- [Cyber Threat Intelligence](https://www.credly.com/badges/914d7b10-e8c4-411a-b9d3-ef1709050ade?source=linked_in_profile)
-- [Cybersecurity Compliance Framework & System Administration](https://www.credly.com/badges/4cb793a6-e5f2-4857-aea4-d9ed2ca30dd1?source=linked_in_profile)
-- [Cybersecurity IT Fundamentals Specialization](https://www.credly.com/badges/48116d4f-9f9e-4968-8672-f6881d673184?source=linked_in_profile)
-- [Penetration Testing, Incident Response and Forensics](https://www.credly.com/badges/7da60789-981c-4cfd-80bb-8d078d3a6937?source=linked_in_profile)
-- [Cybersecurity Roles, Processes & Operating System Security](https://www.youracclaim.com/badges/c40ae564-e277-494e-9769-283261a0fdb5?source=linked_in_profile)
-- [Doing More with SAS® Programming](https://www.youracclaim.com/badges/c26ca269-898e-45cb-8ba9-93733643632b?source=linked_in_profile)
-- [Getting Started with SAS® Programming](https://www.youracclaim.com/badges/9ee666f1-445f-4029-a3ba-70888ed96a8c?source=linked_in_profile)
-- [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.youracclaim.com/badges/cfb7b11c-3a48-4b0d-8eeb-2bc4845fb111?source=linked_in_profile)
-- [Network Security & Database Vulnerabilities](https://www.youracclaim.com/badges/1289a260-29d8-4751-a5a5-fa30088145e5?source=linked_in_profile)
-- [Open Source Software Development, Linux and Git Specialization](https://www.youracclaim.com/badges/ed90afc8-53a6-4352-8ba3-2e3cf5245128?source=linked_in_profile)
-- [Practical SAS® Programming and Certification Review](https://www.youracclaim.com/badges/45603f0a-9b04-441a-a68d-9c196e4bd4bc?source=linked_in_profile)
-- [SAS Programmer](https://www.coursera.org/account/accomplishments/specialization/certificate/M4LEKLD8JWTX)
-- [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GHCYMEVNMPDE)
-- [Open Source Software Development, Linux and Git](https://www.coursera.org/account/accomplishments/specialization/certificate/2LSLPKXF5HU7)
-- [Introduction to Cybersecurity for Business](https://www.coursera.org/account/accomplishments/certificate/PUPJM79YX4E9)
-- [Applied Cryptography](https://www.coursera.org/account/accomplishments/specialization/certificate/85SMMDH5FHMS)
-- [Secure Software Design](https://www.coursera.org/account/accomplishments/specialization/certificate/HZFGT8KYWR4U)
-- [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/account/accomplishments/certificate/AGVCB76XRWQQ)
-- [Usable Security](https://www.coursera.org/account/accomplishments/certificate/CTNE48LEAGNL)
-- [Introduction to Applied Cryptography](https://www.coursera.org/account/accomplishments/specialization/certificate/JJARCH2RH57U)
-
----
-
-## Proyectos Personales
-
-### Generador_CURP
-Este proyecto fue creado como una práctica para generar CURPs y almacenarlos en una base de datos. El objetivo fue explorar técnicas de generación de datos y gestión de bases de datos, aportando conocimientos valiosos para el manejo de grandes volúmenes de información.
-
-### Base de Datos de Bromas de Chuck Norris
-Soy una gran fan de las bromas de Chuck Norris y decidí crear una base de datos para almacenarlas y gestionarlas eficientemente. Este proyecto me permitió mejorar mis habilidades en el manejo de bases de datos y en la creación de APIs.
-
----
-
-## Educación
-**Facultad de Ingeniería, Universidad de [Nombre de la Universidad]**
-
----
-
-## Frase Inspiradora
-"El éxito no se mide por el trabajo que haces, sino por el impacto que generas en los demás."
-
----
-
-## Contacto
-- **Correo**: [sofiameroni.sm@gmail.com](mailto:sofiameroni.sm@gmail.com)
-- **LinkedIn**: [www.linkedin.com/in/sofiameroni](www.linkedin.com/in/sofiameroni)
+| Lenguajes    | RDBMS         | Automatización de Pruebas | Herramientas de Pruebas | Control de Versiones |
+| :----------: |:-------------:| :-----------------------:| :---------------------:| :-------------------:| 
+| `Python`     | `PostgreSQL`  | `Selenium`               | `Postman API`          | `Git`                |
+| `SQL`        | `MySQL`       | `JMeter`                 | `VS Code`              |                      |
+| `HTML`       | `SQLite`      | `PyTest`                 |                        |                      |
+| `CSS`        |               |                          |                        |                      |
+| `JS`         |               |                          |                        |                      |
 
 
----
+
+### Lo que solía hacer
+<div style="line-height: 2.0;">
+En mi tiempo en Ceibal, colaboré en un proceso migratorio crítico asegurando la calidad de un sistema web de gestión de usuarios. Desarrollé estrategias de pruebas funcionales que lograron una cobertura de pruebas del 95% y redujeron los defectos post-lanzamiento en un 20%. Implementé pruebas de seguridad avanzadas que llevaron a una disminución del 30% en incidentes de seguridad reportados y ejecuté pruebas de rendimiento que mejoraron la eficiencia del sistema en un 18%.
+</div>
+
+<div style="margin-top: 20px; line-height: 1.6;">
+En DaCodes, diseñé y desarrollé scripts de automatización de pruebas avanzadas utilizando Selenium y Python, logrando una reducción del 12% en el tiempo de ejecución de pruebas manuales. Implementé un sistema integral de reportes automatizados, mejorando la eficiencia y rapidez en la resolución de incidentes en un 17% por sprint. Planifiqué y optimicé pruebas de rendimiento utilizando JMeter, mejorando la estabilidad y velocidad de respuesta del sistema en un 20%.
+</div>
+
+### Mis proyectos personales
+<div style="line-height: 2.0;">
+Además de mi trabajo profesional, me encanta dedicar tiempo a proyectos personales que me permiten explorar nuevas tecnologías y mejorar mis habilidades:
+</div>
+
+<div style="margin-top: 20px; line-height: 1.6;">
+  Generador_CURP: Este proyecto fue creado como una práctica para generar CURPs y almacenarlos en una base de datos. El objetivo fue explorar técnicas de generación de datos y gestión de bases de datos, aportando conocimientos valiosos para el manejo de grandes volúmenes de información.
+</div>
+
+<div style="margin-top: 20px; line-height: 1.6;">
+  Base de Datos de Bromas de Chuck Norris: Soy una gran fan de las bromas de Chuck Norris y decidí crear una base de datos para almacenarlas y gestionarlas eficientemente. Este proyecto me permitió mejorar mis habilidades en el manejo de bases de datos y en la creación de APIs.
+</div>
+
+<div style="line-height: 2.0;">
+  Gestión de Plantas: Estoy desarrollando un proyecto para crear una base de datos y una aplicación que gestione información sobre diferentes tipos de plantas y sus necesidades. Este proyecto me permite combinar mi amor por las plantas con mis habilidades técnicas, creando una herramienta útil para el cuidado y la gestión de plantas.
+</div>
+
+### Lo que hago en mi tiempo libre
+<div style="line-height: 2.0;">
+Me encanta cuidar de mis plantas en mi tiempo libre, disfrutando de la naturaleza y aprendiendo sobre diferentes especies y sus cuidados. También estoy iniciando un nuevo proyecto relacionado con plantas, donde exploraré la creación de una base de datos y una aplicación para gestionar información sobre diferentes tipos de plantas y sus necesidades.
+</div>
+
+<div style="margin-top: 20px; line-height: 1.6;">
+Además, disfruto jugando a "Animal Jam: Play Wild," un juego en línea donde organizo eventos diarios desde hace dos años. Gestiono y dirijo un grupo de aproximadamente 25 personas para crear y llevar a cabo estos eventos, además de organizar sorteos y festivales para reunir jugadores. Esta experiencia me ha permitido desarrollar habilidades de liderazgo y organización, además de fomentar una comunidad activa y participativa.
+</div>
