@@ -531,7 +531,7 @@ a:hover {
   }
 }
 .main-content {
-  word-wrap:break-word
+  word-wrap:break-word;
 }
 .main-content :first-child {
   margin-top:0
@@ -708,7 +708,7 @@ a:hover {
 }
 @media screen and (min-width: 64em) {
   .site-footer {
-    font-size:1rem
+    font-size:7px;
   }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
