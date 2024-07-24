@@ -1,5 +1,5 @@
 ---
-title: Sofia Meroni - QA Automation Engineer
+title: Sofia Meroni
 ---
 
 ## Contacto
