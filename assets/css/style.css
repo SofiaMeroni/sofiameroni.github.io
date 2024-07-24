@@ -472,7 +472,7 @@ a:hover {
 }
 .page-header {
   color:#205c54;
-  text-align:center;
+  text-align:-moz-center;
   background-color:#159957;
   background-image:linear-gradient(120deg, #d6eae0, #109352);
 }
