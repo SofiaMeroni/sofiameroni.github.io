@@ -62,6 +62,6 @@ Además de mi trabajo profesional, me encanta dedicar tiempo a proyectos persona
 Me encanta cuidar de mis plantas en mi tiempo libre, disfrutando de la naturaleza y aprendiendo sobre diferentes especies y sus cuidados. También estoy iniciando un nuevo proyecto relacionado con plantas, donde exploraré la creación de una base de datos y una aplicación para gestionar información sobre diferentes tipos de plantas y sus necesidades.
 </div>
 
-<div style="line-height: 2.0;">
+<div style="margin-top: 20px; line-height: 1.6;">
 Además, disfruto jugando a "Animal Jam: Play Wild," un juego en línea donde organizo eventos diarios desde hace dos años. Gestiono y dirijo un grupo de aproximadamente 25 personas para crear y llevar a cabo estos eventos, además de organizar sorteos y festivales para reunir jugadores. Esta experiencia me ha permitido desarrollar habilidades de liderazgo y organización, además de fomentar una comunidad activa y participativa.
 </div>
