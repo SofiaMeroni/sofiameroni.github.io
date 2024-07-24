@@ -36,7 +36,7 @@ Actualmente trabajo como contratista, desarrollando scripts de automatización d
 En mi tiempo en Ceibal, colaboré en un proceso migratorio crítico asegurando la calidad de un sistema web de gestión de usuarios. Desarrollé estrategias de pruebas funcionales que lograron una cobertura de pruebas del 95% y redujeron los defectos post-lanzamiento en un 20%. Implementé pruebas de seguridad avanzadas que llevaron a una disminución del 30% en incidentes de seguridad reportados y ejecuté pruebas de rendimiento que mejoraron la eficiencia del sistema en un 18%.
 </div>
 
-<div style="line-height: 2.0;">
+<div style="margin-top: 20px; line-height: 1.6;">
 En DaCodes, diseñé y desarrollé scripts de automatización de pruebas avanzadas utilizando Selenium y Python, logrando una reducción del 12% en el tiempo de ejecución de pruebas manuales. Implementé un sistema integral de reportes automatizados, mejorando la eficiencia y rapidez en la resolución de incidentes en un 17% por sprint. Planifiqué y optimicé pruebas de rendimiento utilizando JMeter, mejorando la estabilidad y velocidad de respuesta del sistema en un 20%.
 </div>
 
