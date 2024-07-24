@@ -1,3 +1,7 @@
+---
+title: Sofia Meroni
+---
+
 ## Certificaciones
 
 <div style="line-height: 2.0;">
