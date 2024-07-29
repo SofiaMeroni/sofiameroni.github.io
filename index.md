@@ -7,27 +7,21 @@ Con más de tres años de experiencia en control de calidad, me especializo en i
 </div>
 
 <div style="line-height: 2.0;">
-Me apasiona fomentar la implementación de principios ágiles, eliminando obstáculos y manteniendo un entorno de trabajo colaborativo y de alto rendimiento. Mi experiencia me ha permitido trabajar en diversas industrias, desarrollando soluciones innovadoras que aseguran la robustez y confiabilidad de los sistemas. 
+Me apasiona fomentar la implementación de principios ágiles, eliminando obstáculos y manteniendo un entorno de trabajo colaborativo y de alto rendimiento. Mi experiencia me ha permitido trabajar en diversas áreas, desarrollando soluciones innovadoras que aseguran la robustez y confiabilidad de los sistemas. 
 </div>
 
 <div style="line-height: 2.0;">
 Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente, aplicando mis conocimientos en ciberseguridad para garantizar sistemas seguros y eficientes.
 </div>
 
-### Mi situación actual
-<div style="line-height: 2.0;">
-Actualmente trabajo como contratista, desarrollando scripts de automatización de pruebas utilizando Python y Selenium, mejorando la cobertura de pruebas y reduciendo el tiempo de prueba manual en un 10%. Además, implemento pruebas automatizadas para validar la integridad de datos en sistemas, mejorando la calidad general en un 15%.
-</div>
 
 ### Mi stack hasta ahora
 
-| Lenguajes    | RDBMS         | Automatización de Pruebas | Herramientas de Pruebas | Control de Versiones |
-| :----------: |:-------------:| :-----------------------:| :---------------------:| :-------------------:| 
-| `Python`     | `PostgreSQL`  | `Selenium`               | `Postman API`          | `Git`                |
-| `SQL`        | `MySQL`       | `JMeter`                 | `VS Code`              |                      |
-| `HTML`       | `SQLite`      | `PyTest`                 |                        |                      |
-| `CSS`        |               |                          |                        |                      |
-| `JS`         |               |                          |                        |                      |
+| Lenguajes    | Tecnologías Web | RDBMS         | Automatización de Pruebas | Herramientas de Pruebas | Control de Versiones |
+| :----------: |:---------------:|:-------------:| :-----------------------:| :---------------------:| :-------------------:| 
+| `Python`     | `HTML`          | `PostgreSQL`  | `Selenium`               | `Postman API`          | `Git`                |
+| `SQL`        | `CSS`           | `MySQL`       | `JMeter`                 | `VS Code`              |                      |
+|              | `JavaScript`    | `SQLite`      | `PyTest`                 |                        |                      |
 
 
 
@@ -50,7 +44,7 @@ Además de mi trabajo profesional, me encanta dedicar tiempo a proyectos persona
 </div>
 
 <div style="margin-top: 20px; line-height: 1.6;">
-  Base de Datos de Bromas de Chuck Norris: Soy una gran fan de las bromas de Chuck Norris y decidí crear una base de datos para almacenarlas y gestionarlas eficientemente. Este proyecto me permitió mejorar mis habilidades en el manejo de bases de datos y en la creación de APIs.
+  Base de Datos de Bromas de Chuck Norris: Soy una gran fan de las bromas de Chuck Norris y decidí crear una base de datos para almacenarlas y gestionarlas eficientemente. Este proyecto me permitió mejorar mis habilidades en el manejo de bases de datos y de APIs.
 </div>
 
 <div style="line-height: 2.0;">
@@ -63,5 +57,5 @@ Me encanta cuidar de mis plantas en mi tiempo libre, disfrutando de la naturalez
 </div>
 
 <div style="margin-top: 20px; line-height: 2.0;">
-Además, disfruto jugando a "Animal Jam: Play Wild," un juego en línea donde organizo eventos diarios desde hace dos años. Gestiono y dirijo un grupo de aproximadamente 25 personas para crear y llevar a cabo estos eventos, además de organizar sorteos y festivales para reunir jugadores. Esta experiencia me ha permitido desarrollar habilidades de liderazgo y organización, además de fomentar una comunidad activa y participativa.
+Por otra parte, disfruto jugando a "Animal Jam: Play Wild," un juego en línea donde organizo eventos diarios desde hace dos años. Gestiono y dirijo un grupo de aproximadamente 25 personas para crear y llevar a cabo estos eventos, además de organizar sorteos y festivales para reunir jugadores. Esta experiencia me ha permitido desarrollar habilidades de liderazgo y organización, y también fomentar una comunidad activa y participativa.
 </div>
