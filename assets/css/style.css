@@ -732,39 +732,6 @@ a:hover {
   text-align: center;
 }
 
-* {
-  box-sizing: border-box; /* Ajusta el box-sizing a border-box para una gestión más sencilla del tamaño de los elementos */
-}
-
-body {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.6; /* Ajusta el line-height para una mejor legibilidad */
-  color: #606c71;
-  margin: 0;
-  padding: 0;
-}
-
-a {
-  color: #020202;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-.page-header {
-  color: #fff; /* Asegúrate de que el texto sea legible sobre el fondo */
-  text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #d6eae0, #109352);
-}
-
-.start-subtitle, .about-section {
-  text-align: center;
-}
-
 .round-image {
   border-radius: 50%;
   width: 150px; /* Ajusta el tamaño según sea necesario */
