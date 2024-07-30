@@ -15,7 +15,7 @@ Mi experiencia en calidad y automatización de pruebas me permite abordar los de
 Puedes contactarme en: [LinkedIn](www.linkedin.com/in/sofiameroni)
 
 
-<img src="images/floral-design.png" alt="Ícono de Flaticon" width="100" height="100">
+<img src="images/floral-design.png" alt="Ícono de Flaticon" width="150" height="150">
 
 
 
