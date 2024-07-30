@@ -15,5 +15,7 @@ Mi experiencia en calidad y automatización de pruebas me permite abordar los de
 Puedes contactarme en: [LinkedIn](www.linkedin.com/in/sofiameroni)
 
 
+![Flor](images\floral-design.png)
+
 
 
