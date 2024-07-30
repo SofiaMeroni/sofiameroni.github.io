@@ -79,7 +79,7 @@ sub {
   bottom:-0.25em
 }
 img {
-  border:0
+  border:0px;
 }
 svg:not(:root) {
   overflow:hidden
@@ -401,7 +401,7 @@ body {
   margin:0;
   font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size:16px;
-  line-height:1.0;
+  line-height:1;
   color:#606c71;
 }
 #skip-to-content {
@@ -421,7 +421,7 @@ body {
   outline:thick solid #e19447
 }
 a {
-  color:#020202;
+  color:#d57272;
   text-decoration:none
 }
 a:hover {
@@ -471,14 +471,14 @@ a:hover {
   }
 }
 .page-header {
-  color:#205c54;
+  color:#d57272;
   text-align:-moz-center-or-inherit;
-  background-color:#159957;
-  background-image:linear-gradient(120deg, #d6eae0, #109352);
+  background-color:#934a54;
+  background-image:linear-gradient(120deg, #3E1D3E, #bf8e6a);
 }
 @media screen and (min-width: 64em) {
   .page-header {
-    padding:5rem 6rem
+    padding:4rem 6rem;
   }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
@@ -581,7 +581,7 @@ a:hover {
   margin-top:2rem;
   margin-bottom:1rem;
   font-weight:normal;
-  color:#159957
+  color:#d57272;
 }
 .main-content p {
   margin-bottom:1em
@@ -734,9 +734,9 @@ a:hover {
 
 .round-image {
   border-radius: 50%;
-  width: 150px; 
-  height: 150px;
-  object-fit: cover;
-  float: right;
+  width: 168px; 
+  height: 203px;
+  object-fit: unset;
+  float: inline-end;
   margin-left: 20px;
 }
