@@ -17,6 +17,7 @@ Puedes contactarme en: [LinkedIn](www.linkedin.com/in/sofiameroni)
 
 ![Ícono de Flaticon](images/floral-design.png)
 
+<img src="images/floral-design.png" alt="Ícono de Flaticon" width="100" height="100">
 
 
 
