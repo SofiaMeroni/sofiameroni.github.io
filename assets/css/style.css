@@ -493,11 +493,11 @@ a:hover {
 }
 .project-name {
   margin-top:0;
-  margin-bottom:0.1rem
+  margin-bottom:1.1rem;
 }
 @media screen and (min-width: 64em) {
   .project-name {
-    font-size:3.25rem
+    font-size:3.25rem;
   }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
@@ -739,4 +739,5 @@ a:hover {
   object-fit: unset;
   float: inline-end;
   margin-left: 20px;
+  margin-top: -20px;
 }
