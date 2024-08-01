@@ -26,8 +26,21 @@ Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crece
 
 
 ### Mis proyectos personales
+
 <div style="margin-top: 20px; line-height: 1.5;">
-Me apasiona cuidar de mis plantas y disfrutar del contacto con la naturaleza. Este hobby me permite aprender sobre diferentes especies y sus cuidados específicos, lo que me proporciona una gran satisfacción personal y un respiro relajante de la rutina diaria.
+Mi pasión por explorar y desarrollar nuevas habilidades se manifiesta en una variedad de proyectos que abarcan diferentes intereses. Dedico tiempo tanto a iniciativas tecnológicas como a hobbies personales, incluyendo el cuidado de plantas, la escritura creativa y la gestión de eventos en línea. Cada uno de estos proyectos me permite aprender y crecer, y aquí te comparto algunos de los que me entusiasman actualmente:
+</div>
+
+<div style="margin-top: 20px; line-height: 1.5;">
+  Generador_CURP: Este proyecto fue creado como una práctica para generar CURPs y almacenarlos en una base de datos. El objetivo fue explorar técnicas de generación de datos y gestión de bases de datos, aportando conocimientos valiosos para el manejo de grandes volúmenes de información.
+</div>
+
+<div style="margin-top: 20px; line-height: 1.5;">
+  Base de Datos de Bromas de Chuck Norris: Soy una gran fan de las bromas de Chuck Norris y decidí crear una base de datos para almacenarlas y gestionarlas. Este proyecto me permitió mejorar mis habilidades en el manejo de bases de datos y de APIs.
+</div>
+
+<div style="margin-top: 20px; line-height: 2.0;">
+Gestión de Plantas: Mi pasión por el cuidado de las plantas se refleja en un proyecto en el que estoy trabajando para crear una base de datos y una aplicación que gestione información sobre diferentes tipos de plantas y sus necesidades. Disfruto profundamente del contacto con la naturaleza y aprendo sobre diversas especies y sus cuidados específicos, lo que me proporciona satisfacción personal y un respiro relajante de la rutina diaria. Este proyecto me permite unir mi amor por las plantas con mis habilidades técnicas, desarrollando una herramienta útil para el cuidado y la gestión de estas.
 </div>
 
 <div style="margin-top: 20px; line-height: 1.5;">
@@ -60,7 +73,7 @@ A través de estas actividades, he logrado fomentar una comunidad activa y parti
 </div>
 
 <div style="margin-top: 20px; line-height: 1.5;">
-En paralelo a mis otras pasiones, disfruto escribiendo cuentos. Esta actividad me permite explorar mi creatividad y expresarme a través de la narración. Cada cuento es una oportunidad para desarrollar nuevas historias y personajes, y me proporciona un gran placer personal al ver cómo mis ideas cobran vida en la página.
+Escritura Creativa: Escribir cuentos es una de mis grandes pasiones, y aunque pueda parecer un pasatiempo lejano de la tecnología, en realidad, aporta una perspectiva única a mi trabajo en TI. La habilidad para crear narrativas complejas y personajes profundos me ayuda a abordar proyectos técnicos con una mentalidad innovadora y detallista. Al igual que en la escritura, donde cada historia debe ser coherente y bien estructurada, en el desarrollo de software, la atención al detalle y la capacidad de visualizar el panorama general son cruciales. La escritura también mejora mis habilidades de comunicación, permitiéndome transmitir ideas y conceptos técnicos de manera más clara y efectiva. Así, cada cuento que escribo no solo enriquece mi vida personal, sino que también fortalece mi capacidad para abordar desafíos técnicos con creatividad y precisión.
 </div>
 
 ### Comentarios de Clientes y Compañeros
