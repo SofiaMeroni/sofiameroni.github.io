@@ -402,7 +402,7 @@ body {
   font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size:16px;
   line-height:1;
-  color:#504453;
+  color:#2e2e2e;
 }
 #skip-to-content {
   height:1px;
@@ -749,10 +749,10 @@ a:hover {
 }
 
 .recommendation-card {
-  border: 1px solid #ccc;
+  border: 1px solid #e053df;
   padding: 15px;
   border-radius: 10px;
-  background-color: #f9f9f9;
+  background-color: #ff9ceb6e;
 }
 
 .recommendation-text {
@@ -764,4 +764,3 @@ a:hover {
   font-weight: bold;
   margin-top: 10px;
 }
-
