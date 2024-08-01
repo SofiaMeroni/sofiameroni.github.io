@@ -37,8 +37,14 @@ Además del cuidado de plantas, disfruto jugando a "Animal Jam: Play Wild," un j
 
 <div style="margin-top: 20px; line-height: 2.0;">
 Organización de Eventos: Creación y coordinación de eventos para los jugadores.
-Sorteos y Festivales:Planificación y ejecución de sorteos y festivales para reunir a la comunidad.
-Desarrollo de Habilidades:Esta experiencia ha sido fundamental para desarrollar habilidades de liderazgo y organización.
+</div>
+
+<div style="margin-top: 20px; line-height: 2.0;">
+Sorteos y Festivales: Planificación y ejecución de sorteos y festivales para reunir a la comunidad.
+</div>
+
+<div style="margin-top: 20px; line-height: 2.0;">
+Desarrollo de Habilidades: Esta experiencia ha sido fundamental para desarrollar habilidades de liderazgo y organización.
 </div>
 
 <div style="margin-top: 20px; line-height: 2.0;">
