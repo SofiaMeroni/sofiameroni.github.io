@@ -25,20 +25,6 @@ Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crece
 
 
 
-### Que puedo poner aqui?
-
-<div style="display: flex; flex-direction: column; gap: 20px; margin-top: 20px;">
-  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 10px; background-color: #f9f9f9;">
-    <p style="font-style: italic;">"Es un placer recomendar a Sofía como QA Engineer. Durante nuestro tiempo trabajando juntos, ha demostrado ser una experta en su campo, siempre se esfuerza por garantizar que los productos y servicios cumplan con los más altos estándares de calidad. Su atención meticulosa a los detalles y su habilidad para realizar pruebas exhaustivas son ejemplares.
-
-Además de sus habilidades técnicas, Sofía es una persona confiable y colaboradora. Su actitud positiva y su disposición para trabajar en equipo la convierten en una gran compañera de trabajo. Recomiendo a Sofía sin ninguna duda como QA Engineer. Su profesionalismo, experiencia y ética de trabajo impecable la convierten en una valiosa adición a cualquier equipo. Estoy seguro de que su pasión por la calidad y su compromiso con la excelencia la llevarán a alcanzar grandes logros en su carrera profesional."</p>
-    <p style="text-align: right; font-weight: bold; margin-top: 10px;">- Luis Alberto Rodríguez Uriarte, Gerente de Operaciones de Crédito/Product</p>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 10px; background-color: #f9f9f9;">
-    <p style="font-style: italic;">"Sofia es una excelente mujer, con un carisma extraordinario. Su capacidad de trabajo y visión estratégica la hacen una líder en potencia. Será un elemento muy bueno para cualquier reto profesional que se le imponga. Ha demostrado ser profesional con sus habilidades de gestión de proyectos y una gran capacidad innovadora para diseñar soluciones de calidad en proyectos complejos. Asegurando la integridad de los datos y la calidad de experiencia de los mismos a través de un adecuado proceso e implementación de soluciones aplicativas."</p>
-    <p style="text-align: right; font-weight: bold; margin-top: 10px;">- Emiliano Gonzalez, Tester Manual</p>
-  </div>
-
 ### Mis proyectos personales
 <div style="line-height: 2.0;">
 Además de mi trabajo profesional, me encanta dedicar tiempo a proyectos personales que me permiten explorar nuevas tecnologías y mejorar mis habilidades:
@@ -64,3 +50,17 @@ Me encanta cuidar de mis plantas en mi tiempo libre, disfrutando de la naturalez
 <div style="margin-top: 20px; line-height: 2.0;">
 Por otra parte, disfruto jugando a "Animal Jam: Play Wild," un juego en línea donde organizo eventos diarios desde hace dos años. Gestiono y dirijo un grupo de aproximadamente 25 personas para crear y llevar a cabo estos eventos, además de organizar sorteos y festivales para reunir jugadores. Esta experiencia me ha permitido desarrollar habilidades de liderazgo y organización, y también fomentar una comunidad activa y participativa.
 </div>
+
+### Comentarios de Clientes y Compañeros
+
+<div style="display: flex; flex-direction: column; gap: 20px; margin-top: 20px;">
+  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 10px; background-color: #f9f9f9;">
+    <p style="font-style: italic;">"Es un placer recomendar a Sofía como QA Engineer. Durante nuestro tiempo trabajando juntos, ha demostrado ser una experta en su campo, siempre se esfuerza por garantizar que los productos y servicios cumplan con los más altos estándares de calidad. Su atención meticulosa a los detalles y su habilidad para realizar pruebas exhaustivas son ejemplares.
+
+Además de sus habilidades técnicas, Sofía es una persona confiable y colaboradora. Su actitud positiva y su disposición para trabajar en equipo la convierten en una gran compañera de trabajo. Recomiendo a Sofía sin ninguna duda como QA Engineer. Su profesionalismo, experiencia y ética de trabajo impecable la convierten en una valiosa adición a cualquier equipo. Estoy seguro de que su pasión por la calidad y su compromiso con la excelencia la llevarán a alcanzar grandes logros en su carrera profesional."</p>
+    <p style="text-align: right; font-weight: bold; margin-top: 10px;">- Luis Alberto Rodríguez Uriarte, Gerente de Operaciones de Crédito/Product</p>
+  </div>
+  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 10px; background-color: #f9f9f9;">
+    <p style="font-style: italic;">"Sofia es una excelente mujer, con un carisma extraordinario. Su capacidad de trabajo y visión estratégica la hacen una líder en potencia. Será un elemento muy bueno para cualquier reto profesional que se le imponga. Ha demostrado ser profesional con sus habilidades de gestión de proyectos y una gran capacidad innovadora para diseñar soluciones de calidad en proyectos complejos. Asegurando la integridad de los datos y la calidad de experiencia de los mismos a través de un adecuado proceso e implementación de soluciones aplicativas."</p>
+    <p style="text-align: right; font-weight: bold; margin-top: 10px;">- Emiliano Gonzalez, Tester Manual</p>
+  </div>
