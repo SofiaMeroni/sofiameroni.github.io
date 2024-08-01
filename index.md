@@ -27,31 +27,31 @@ Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crece
 
 ### Mis proyectos personales
 
-<div style="margin-top: 20px; line-height: 2.0;">
+<div style="line-height: 2.0;">
 Me apasiona cuidar de mis plantas y disfrutar del contacto con la naturaleza. Este hobby me permite aprender sobre diferentes especies y sus cuidados específicos, lo que me proporciona una gran satisfacción personal y un respiro relajante de la rutina diaria.
 </div>
 
-<div style="margin-top: 20px; line-height: 2.0;">
+<div style="line-height: 2.0;">
 Además del cuidado de plantas, disfruto jugando a "Animal Jam: Play Wild," un juego en línea que me ha permitido involucrarme en una comunidad vibrante. Desde hace dos años, organizo eventos diarios en el juego y gestiono un grupo de aproximadamente 25 personas. Mis responsabilidades incluyen:
 </div>
 
-<div style="margin-top: 20px; line-height: 2.0;">
+<div style="line-height: 2.0;">
 Organización de Eventos: Creación y coordinación de eventos para los jugadores.
 </div>
 
-<div style="margin-top: 20px; line-height: 2.0;">
+<div style="line-height: 2.0;">
 Sorteos y Festivales: Planificación y ejecución de sorteos y festivales para reunir a la comunidad.
 </div>
 
-<div style="margin-top: 20px; line-height: 2.0;">
+<div style="line-height: 2.0;">
 Desarrollo de Habilidades: Esta experiencia ha sido fundamental para desarrollar habilidades de liderazgo y organización.
 </div>
 
-<div style="margin-top: 20px; line-height: 2.0;">
+<div style="line-height: 2.0;">
 A través de estas actividades, he logrado fomentar una comunidad activa y participativa, lo que me ha brindado un valioso aprendizaje en gestión de equipos y eventos.
 </div>
 
-<div style="margin-top: 20px; line-height: 2.0;">
+<div style="line-height: 2.0;">
 En paralelo a mis otras pasiones, disfruto escribiendo cuentos. Esta actividad me permite explorar mi creatividad y expresarme a través de la narración. Cada cuento es una oportunidad para desarrollar nuevas historias y personajes, y me proporciona un gran placer personal al ver cómo mis ideas cobran vida en la página.
 </div>
 
