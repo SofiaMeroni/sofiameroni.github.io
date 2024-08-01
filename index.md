@@ -11,7 +11,7 @@ Me apasiona fomentar la implementación de principios ágiles, eliminando obstá
 </div>
 
 <div style="line-height: 2.0;">
-Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente, aplicando mis conocimientos en ciberseguridad para garantizar sistemas seguros y eficientes.
+Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente, aplicando mis conocimientos para garantizar sistemas seguros y eficientes.
 </div>
 
 
@@ -25,14 +25,19 @@ Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crece
 
 
 
-### Lo que solía hacer
-<div style="line-height: 2.0;">
-En mi tiempo en Ceibal, colaboré en un proceso migratorio crítico asegurando la calidad de un sistema web de gestión de usuarios. Desarrollé estrategias de pruebas funcionales que lograron una cobertura de pruebas del 95% y redujeron los defectos post-lanzamiento en un 20%. Implementé pruebas de seguridad avanzadas que llevaron a una disminución del 30% en incidentes de seguridad reportados y ejecuté pruebas de rendimiento que mejoraron la eficiencia del sistema en un 18%.
-</div>
+### Que puedo poner aqui?
 
-<div style="margin-top: 20px; line-height: 2.0;">
-En DaCodes, diseñé y desarrollé scripts de automatización de pruebas avanzadas utilizando Selenium y Python, logrando una reducción del 12% en el tiempo de ejecución de pruebas manuales. Implementé un sistema integral de reportes automatizados, mejorando la eficiencia y rapidez en la resolución de incidentes en un 17% por sprint. Planifiqué y optimicé pruebas de rendimiento utilizando JMeter, mejorando la estabilidad y velocidad de respuesta del sistema en un 20%.
-</div>
+<div style="display: flex; flex-direction: column; gap: 20px; margin-top: 20px;">
+  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 10px; background-color: #f9f9f9;">
+    <p style="font-style: italic;">"Es un placer recomendar a Sofía como QA Engineer. Durante nuestro tiempo trabajando juntos, ha demostrado ser una experta en su campo, siempre se esfuerza por garantizar que los productos y servicios cumplan con los más altos estándares de calidad. Su atención meticulosa a los detalles y su habilidad para realizar pruebas exhaustivas son ejemplares.
+
+Además de sus habilidades técnicas, Sofía es una persona confiable y colaboradora. Su actitud positiva y su disposición para trabajar en equipo la convierten en una gran compañera de trabajo. Recomiendo a Sofía sin ninguna duda como QA Engineer. Su profesionalismo, experiencia y ética de trabajo impecable la convierten en una valiosa adición a cualquier equipo. Estoy seguro de que su pasión por la calidad y su compromiso con la excelencia la llevarán a alcanzar grandes logros en su carrera profesional."</p>
+    <p style="text-align: right; font-weight: bold; margin-top: 10px;">- Luis Alberto Rodríguez Uriarte, Gerente de Operaciones de Crédito/Product</p>
+  </div>
+  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 10px; background-color: #f9f9f9;">
+    <p style="font-style: italic;">"Sofia es una excelente mujer, con un carisma extraordinario. Su capacidad de trabajo y visión estratégica la hacen una líder en potencia. Será un elemento muy bueno para cualquier reto profesional que se le imponga. Ha demostrado ser profesional con sus habilidades de gestión de proyectos y una gran capacidad innovadora para diseñar soluciones de calidad en proyectos complejos. Asegurando la integridad de los datos y la calidad de experiencia de los mismos a través de un adecuado proceso e implementación de soluciones aplicativas."</p>
+    <p style="text-align: right; font-weight: bold; margin-top: 10px;">- Emiliano Gonzalez, Tester Manual</p>
+  </div>
 
 ### Mis proyectos personales
 <div style="line-height: 2.0;">
