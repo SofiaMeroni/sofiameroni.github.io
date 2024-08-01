@@ -26,7 +26,6 @@ Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crece
 
 
 ### Mis proyectos personales
-
 <div style="line-height: 2.0;">
 Me apasiona cuidar de mis plantas y disfrutar del contacto con la naturaleza. Este hobby me permite aprender sobre diferentes especies y sus cuidados específicos, lo que me proporciona una gran satisfacción personal y un respiro relajante de la rutina diaria.
 </div>
