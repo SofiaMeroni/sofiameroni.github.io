@@ -26,29 +26,34 @@ Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crece
 
 
 ### Mis proyectos personales
-<div style="line-height: 2.0;">
-Además de mi trabajo profesional, me encanta dedicar tiempo a proyectos personales que me permiten explorar nuevas tecnologías y mejorar mis habilidades:
+<div style="margin-top: 20px; line-height: 2.0;">
+
+**Cuidado de Plantas:**
+
+Me apasiona cuidar de mis plantas y disfrutar del contacto con la naturaleza. Este hobby me permite aprender sobre diferentes especies y sus cuidados específicos, lo que me proporciona una gran satisfacción personal y un respiro relajante de la rutina diaria.
+
 </div>
 
 <div style="margin-top: 20px; line-height: 2.0;">
-  Generador_CURP: Este proyecto fue creado como una práctica para generar CURPs y almacenarlos en una base de datos. El objetivo fue explorar técnicas de generación de datos y gestión de bases de datos, aportando conocimientos valiosos para el manejo de grandes volúmenes de información.
+
+**Juego en Línea - Animal Jam: Play Wild:**
+
+Además del cuidado de plantas, disfruto jugando a "Animal Jam: Play Wild," un juego en línea que me ha permitido involucrarme en una comunidad vibrante. Desde hace dos años, organizo eventos diarios en el juego y gestiono un grupo de aproximadamente 25 personas. Mis responsabilidades incluyen:
+
+- **Organización de Eventos:** Creación y coordinación de eventos para los jugadores.
+- **Sorteos y Festivales:** Planificación y ejecución de sorteos y festivales para reunir a la comunidad.
+- **Desarrollo de Habilidades:** Esta experiencia ha sido fundamental para desarrollar habilidades de liderazgo y organización.
+
+A través de estas actividades, he logrado fomentar una comunidad activa y participativa, lo que me ha brindado un valioso aprendizaje en gestión de equipos y eventos.
+
 </div>
 
 <div style="margin-top: 20px; line-height: 2.0;">
-  Base de Datos de Bromas de Chuck Norris: Soy una gran fan de las bromas de Chuck Norris y decidí crear una base de datos para almacenarlas y gestionarlas eficientemente. Este proyecto me permitió mejorar mis habilidades en el manejo de bases de datos y de APIs.
-</div>
 
-<div style="margin-top: 20px; line-height: 2.0;">
-  Gestión de Plantas: Estoy desarrollando un proyecto para crear una base de datos y una aplicación que gestione información sobre diferentes tipos de plantas y sus necesidades. Este proyecto me permite combinar mi amor por las plantas con mis habilidades técnicas, creando una herramienta útil para el cuidado y la gestión de plantas.
-</div>
+**Escritura de Cuentos:**
 
-### Lo que hago en mi tiempo libre
-<div style="margin-top: 20px; line-height: 2.0;">
-Me encanta cuidar de mis plantas en mi tiempo libre, disfrutando de la naturaleza y aprendiendo sobre diferentes especies y sus cuidados. También estoy iniciando un nuevo proyecto relacionado con plantas, donde exploraré la creación de una base de datos y una aplicación para gestionar información sobre diferentes tipos de plantas y sus necesidades.
-</div>
+Además de mis otras pasiones, disfruto escribiendo cuentos. Esta actividad me permite explorar mi creatividad y expresarme a través de la narración. Cada cuento es una oportunidad para desarrollar nuevas historias y personajes, y me proporciona un gran placer personal al ver cómo mis ideas cobran vida en la página.
 
-<div style="margin-top: 20px; line-height: 2.0;">
-Por otra parte, disfruto jugando a "Animal Jam: Play Wild," un juego en línea donde organizo eventos diarios desde hace dos años. Gestiono y dirijo un grupo de aproximadamente 25 personas para crear y llevar a cabo estos eventos, además de organizar sorteos y festivales para reunir jugadores. Esta experiencia me ha permitido desarrollar habilidades de liderazgo y organización, y también fomentar una comunidad activa y participativa.
 </div>
 
 ### Comentarios de Clientes y Compañeros
