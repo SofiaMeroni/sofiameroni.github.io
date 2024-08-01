@@ -31,8 +31,10 @@ Me apasiona cuidar de mis plantas y disfrutar del contacto con la naturaleza. Es
 </div>
 
 <div style="line-height: 2.0;">
-Además del cuidado de plantas, disfruto jugando a "Animal Jam: Play Wild," un juego en línea que me ha permitido involucrarme en una comunidad vibrante. Desde hace dos años, organizo eventos diarios en el juego y gestiono un grupo de aproximadamente 25 personas. Mis responsabilidades incluyen:
+Además del cuidado de plantas, disfruto jugando a "Animal Jam: Play Wild," un juego en línea que me ha permitido involucrarme en una comunidad vibrante. Desde hace dos años, organizo eventos diarios en el juego y gestiono un grupo de aproximadamente 25 personas.
 </div>
+
+#### Mis responsabilidades incluyen:
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -52,7 +54,6 @@ Además del cuidado de plantas, disfruto jugando a "Animal Jam: Play Wild," un j
     <td style="border: 1px solid #ddd; padding: 8px;">Esta experiencia ha sido fundamental para desarrollar habilidades de liderazgo y organización.</td>
   </tr>
 </table>
-</div>
 
 <div style="line-height: 2.0;">
 A través de estas actividades, he logrado fomentar una comunidad activa y participativa, lo que me ha brindado un valioso aprendizaje en gestión de equipos y eventos.
