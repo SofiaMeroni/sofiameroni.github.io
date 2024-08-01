@@ -741,3 +741,27 @@ a:hover {
   margin-left: 20px;
   margin-top: -20px;
 }
+.recommendations-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.recommendation-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+.recommendation-text {
+  font-style: italic;
+}
+
+.recommendation-author {
+  text-align: right;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
