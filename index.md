@@ -34,15 +34,15 @@ Me apasiona cuidar de mis plantas y disfrutar del contacto con la naturaleza. Es
 Además del cuidado de plantas, disfruto jugando a "Animal Jam: Play Wild," un juego en línea que me ha permitido involucrarme en una comunidad vibrante. Desde hace dos años, organizo eventos diarios en el juego y gestiono un grupo de aproximadamente 25 personas. Mis responsabilidades incluyen:
 </div>
 
-<div style="line-height: 1.0;">
+<div style="line-height: 1.5;">
 Organización de Eventos: Creación y coordinación de eventos para los jugadores.
 </div>
 
-<div style="line-height: 1.0;">
+<div style="line-height: 1.5;">
 Sorteos y Festivales: Planificación y ejecución de sorteos y festivales para reunir a la comunidad.
 </div>
 
-<div style="line-height: 1.0;">
+<div style="line-height: 2.0;">
 Desarrollo de Habilidades: Esta experiencia ha sido fundamental para desarrollar habilidades de liderazgo y organización.
 </div>
 
