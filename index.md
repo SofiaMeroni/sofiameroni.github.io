@@ -2,11 +2,11 @@
 title: Sofia Meroni
 ---
 ## Sobre Mi
-<div style="line-height: 2.0;">
+<div style="margin-top: 20px; line-height: 1.5;">
 Con más de tres años de experiencia en control de calidad, me especializo en impulsar la eficiencia y calidad en el desarrollo de software a través de la automatización de pruebas. Mi objetivo principal es reducir la intervención manual y maximizar la cobertura de pruebas mediante el uso de herramientas y scripts automatizados.
 </div>
 
-<div style="line-height: 2.0;">
+<div style="margin-top: 20px; line-height: 1.5;">
 Me apasiona fomentar la implementación de principios ágiles, eliminando obstáculos y manteniendo un entorno de trabajo colaborativo y de alto rendimiento. Mi experiencia me ha permitido trabajar en diversas áreas, desarrollando soluciones innovadoras que aseguran la robustez y confiabilidad de los sistemas. 
 </div>
 
@@ -26,7 +26,7 @@ Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crece
 
 
 ### Mis proyectos personales
-<div style="line-height: 2.0;">
+<div style="margin-top: 20px; line-height: 1.5;">
 Me apasiona cuidar de mis plantas y disfrutar del contacto con la naturaleza. Este hobby me permite aprender sobre diferentes especies y sus cuidados específicos, lo que me proporciona una gran satisfacción personal y un respiro relajante de la rutina diaria.
 </div>
 
@@ -55,11 +55,11 @@ Además del cuidado de plantas, disfruto jugando a "Animal Jam: Play Wild," un j
   </tr>
 </table>
 
-<div style="line-height: 2.0;">
+<div style="margin-top: 20px; line-height: 1.5;">
 A través de estas actividades, he logrado fomentar una comunidad activa y participativa, lo que me ha brindado un valioso aprendizaje en gestión de equipos y eventos.
 </div>
 
-<div style="line-height: 2.0;">
+<div style="margin-top: 20px; line-height: 1.5;">
 En paralelo a mis otras pasiones, disfruto escribiendo cuentos. Esta actividad me permite explorar mi creatividad y expresarme a través de la narración. Cada cuento es una oportunidad para desarrollar nuevas historias y personajes, y me proporciona un gran placer personal al ver cómo mis ideas cobran vida en la página.
 </div>
 
