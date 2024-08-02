@@ -39,7 +39,7 @@ Mi pasión por explorar y desarrollar nuevas habilidades se manifiesta en una va
   Base de Datos de Bromas de Chuck Norris: Soy una gran fan de las bromas de Chuck Norris y decidí crear una base de datos para almacenarlas y gestionarlas. Este proyecto me permitió mejorar mis habilidades en el manejo de bases de datos y de APIs.
 </div>
 
-<div style="margin-top: 20px; line-height: 2.0;">
+<div style="margin-top: 20px; line-height: 1.5;">
 Gestión de Plantas: Mi pasión por el cuidado de las plantas se refleja en un proyecto en el que estoy trabajando para crear una base de datos y una aplicación que gestione información sobre diferentes tipos de plantas y sus necesidades. Disfruto profundamente del contacto con la naturaleza y aprendo sobre diversas especies y sus cuidados específicos, lo que me proporciona satisfacción personal y un respiro relajante de la rutina diaria. Este proyecto me permite unir mi amor por las plantas con mis habilidades técnicas, desarrollando una herramienta útil para el cuidado y la gestión de estas.
 </div>
 
