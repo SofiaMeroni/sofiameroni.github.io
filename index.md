@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Sofia Meroni
 ---
 ## Sobre Mi
 <div style="margin-top: 20px; line-height: 1.5;">
