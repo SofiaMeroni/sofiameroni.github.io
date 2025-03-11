@@ -1,20 +1,26 @@
-# Imagen base para Jekyll
-FROM jekyll/jekyll:4.2.2 as builder
+# Usamos una imagen base que ya incluye Ruby y Bundler
+FROM ruby:2.7-slim as builder
+
+# Instalar dependencias necesarias para Jekyll
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    git \
+    && rm -rf /var/lib/apt/lists/*
 
 # Establecer directorio de trabajo
 WORKDIR /app
 
-# Copiar archivos necesarios para bundle install
-COPY Gemfile* .
+# Copiar primero solo Gemfile para mejor uso de caché
+COPY Gemfile* ./
 
-# Instalar dependencias
+# Instalar gemas de Jekyll
 RUN bundle install
 
-# Copiar el resto del sitio
+# Copiar el resto de los archivos del proyecto
 COPY . .
 
-# Construir el sitio
-RUN jekyll build
+# Construir sitio estático
+RUN bundle exec jekyll build
 
 # Segunda etapa - servidor web
 FROM python:3.10-slim
@@ -28,9 +34,9 @@ LABEL org.opencontainers.image.source="https://github.com/SofiaMeroni/sofiameron
 # Establecer directorio de trabajo
 WORKDIR /app
 
-# Instalar dependencias
+# Instalar solo las dependencias necesarias para el servidor
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir flask gunicorn
 
 # Copiar sitio estático desde la etapa de construcción
 COPY --from=builder /app/_site /app/_site

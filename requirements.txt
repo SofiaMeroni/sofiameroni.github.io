@@ -1,4 +1,4 @@
-# Herramientas de desarrollo
+# Testing
 pytest==7.3.1
 pytest-cov==4.1.0
 black==23.3.0
@@ -16,3 +16,8 @@ gunicorn==21.2.0
 # Utilidades
 pyyaml==6.0
 requests==2.31.0
+
+# Especificar versiones de dependencias indirectas conflictivas
+werkzeug==2.2.3
+itsdangerous==2.1.2
+jinja2==3.1.2
