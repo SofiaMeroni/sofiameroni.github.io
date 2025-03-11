@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  website:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: sofiameroni/personal-website:latest
+    container_name: portfolio-site
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+    environment:
+      - PORT=8080
+      - FLASK_ENV=production
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 5s
+    networks:
+      - website-network
