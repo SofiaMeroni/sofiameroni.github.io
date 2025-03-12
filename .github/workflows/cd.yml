@@ -21,8 +21,17 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.7'
-          bundler-cache: true
+          ruby-version: '3.4.2'
+          bundler-cache: false  # ⚠️ Cambiado de true a false
+
+      - name: Clean Bundler
+        run: |
+          rm -rf vendor/bundle
+          bundle config set --local path 'vendor/bundle'
+
+      - name: Install Bundler dependencies
+        run: |
+          bundle install --no-cache --verbose  # ⚠️ Separado en un paso nuevo
 
       - name: Check Ruby and Bundler version
         run: |
@@ -31,9 +40,8 @@ jobs:
       
       - name: Build Jekyll site
         run: |
-            bundle install --verbose
-            bundle exec jekyll build
-      
+          bundle exec jekyll build  # ⚠️ Ahora solo construye el sitio
+
       - name: Capture build artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -60,3 +68,4 @@ jobs:
             ## What's Changed
             
             ${{ github.event.head_commit.message }}
+
