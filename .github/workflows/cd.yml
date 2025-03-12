@@ -21,13 +21,18 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'
+          ruby-version: '2.7'
           bundler-cache: true
+
+      - name: Check Ruby and Bundler version
+        run: |
+          ruby -v
+          bundler -v
       
       - name: Build Jekyll site
         run: |
-          bundle install
-          bundle exec jekyll build
+            bundle install --verbose
+            bundle exec jekyll build
       
       - name: Capture build artifacts
         uses: actions/upload-artifact@v3
