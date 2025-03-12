@@ -6,7 +6,7 @@ Mi experiencia en calidad y automatización de pruebas me permite abordar los de
 
 
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas modificar
 
 | DevOps & Infra | Desarrollo | Pruebas |
 |---------------|------------|---------|
