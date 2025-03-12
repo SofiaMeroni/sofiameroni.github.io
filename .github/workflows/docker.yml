@@ -47,6 +47,6 @@ jobs:
         with:
           context: . # Usa el directorio actual como contexto de construcción
           push: true  # Cambia a true si deseas subir la imagen a Docker Hub
-          tags: sofiameroni/personal-website:latest
+          tags: smero/personal-website:latest
           cache-from: type=gha # Usa caché para acelerar la construcción
           cache-to: type=gha,mode=max # Guarda caché para futuras ejecuciones
