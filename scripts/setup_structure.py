@@ -103,3 +103,28 @@ def test_basic():
 
 if __name__ == "__main__":
     setup_project_structure()
+
+"""
+# Resumen del Script setup_structure.py
+
+Este script automatiza la creación de la estructura de carpetas y archivos esenciales para el proyecto, 
+asegurando un entorno de desarrollo organizado y funcional.
+
+### Funcionalidades principales:
+1. **Creación de Directorios**:  
+   - Genera carpetas clave como `src/`, `tests/`, `scripts/` y `.github/workflows/`.
+   - Asegura que las carpetas de assets y layouts de Jekyll existan en `src/`.
+
+2. **Generación de Archivos Iniciales**:  
+   - Crea archivos de contenido (`index.md`, `contact.md`) dentro de `src/` si no existen.
+   - Agrega archivos vacíos `__init__.py` en `tests/unit/` y `tests/integration/` para estructurar los tests.
+   - Genera un test unitario mínimo (`test_basic.py`) si no existe.
+
+3. **Verificación del Servidor**:  
+   - Comprueba si el archivo `scripts/serve.py` está presente y muestra un mensaje de advertencia si falta.
+
+### Propósito:
+Este script facilita la inicialización del proyecto al garantizar que todos los archivos y directorios 
+necesarios estén listos antes del desarrollo y la implementación. Esto permite mantener un entorno ordenado 
+y coherente sin necesidad de crear manualmente la estructura base.
+"""
