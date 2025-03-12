@@ -35,7 +35,7 @@ jobs:
             bundle exec jekyll build
       
       - name: Capture build artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: website-build
           path: _site/
