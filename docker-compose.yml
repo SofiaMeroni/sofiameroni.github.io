@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  jekyll:
+    image: ruby:2.7-slim
+    container_name: jekyll-builder
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: >
+      bash -c "apt-get update && 
+              apt-get install -y build-essential && 
+              gem install bundler && 
+              bundle install && 
+              bundle exec jekyll build"
+  
+  website:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: sofiameroni/personal-website:latest
+    container_name: portfolio-site
+    ports:
+      - "8080:8080"
+    environment:
+      - PORT=8080
+    depends_on:
+      - jekyll
+    volumes:
+      - ./_site:/app/_site
