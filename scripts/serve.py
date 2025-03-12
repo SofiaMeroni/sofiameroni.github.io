@@ -236,3 +236,30 @@ Thumbs.db
 
 if __name__ == "__main__":
     setup_project_structure()
+
+"""
+# Resumen del Script serve.py
+
+Este script configura la estructura base del proyecto asegurando que todos los directorios y archivos esenciales 
+estén presentes antes del desarrollo y despliegue. 
+
+### Funcionalidades principales:
+1. **Creación de Directorios y Archivos**:  
+   - Genera carpetas clave como `src/`, `tests/`, `scripts/` y `.github/workflows/`.
+   - Crea archivos básicos de configuración y contenido (`_config.yml`, `Gemfile`, `index.md`, `contact.md`, etc.).
+   - Asegura la existencia de archivos esenciales para pruebas en `tests/unit/` y `tests/integration/`.
+
+2. **Inicialización de un Servidor Local (Flask)**:  
+   - Configura un servidor para servir archivos estáticos desde `_site/` (carpeta de salida de Jekyll).
+   - Implementa un endpoint `/health` para comprobar el estado del servidor.
+   - Soporta rutas dinámicas para servir archivos HTML y otros recursos estáticos.
+
+3. **Generación de Archivos de Configuración y Exclusión**:  
+   - Crea un `Gemfile` con las dependencias necesarias para Jekyll.
+   - Configura un archivo `.gitignore` para excluir archivos innecesarios del repositorio.
+
+### Propósito:
+Este script facilita la inicialización del proyecto automatizando la creación de la estructura necesaria, lo que 
+permite mantener un entorno de desarrollo ordenado y coherente. También proporciona un servidor básico para 
+probar el sitio localmente antes del despliegue.
+"""
