@@ -36,6 +36,11 @@ jobs:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
 
+      # Verificar login en Docker Hub (Paso nuevo)
+      - name: Verificar login en Docker Hub
+        if: github.ref == 'refs/heads/main'
+        run: docker info
+
       - name: Publicar imagen en Docker Hub # Sube la imagen a Docker Hub
         if: github.ref == 'refs/heads/main'
         uses: docker/build-push-action@v4
