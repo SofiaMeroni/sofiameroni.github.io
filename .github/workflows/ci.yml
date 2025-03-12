@@ -73,13 +73,17 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
          ruby-version: 3.4.2
-         bundler-cache: true
+         bundler-cache: false  # Deshabilitamos cache para forzar instalación limpia
 
-          
+      - name: Clean Bundler
+        run: |
+          rm -rf vendor/bundle
+          bundle config set --local path 'vendor/bundle'
+
       - name: Build Jekyll site
         run: |
-          bundle install
-          bundle exec jekyll build || true
+          bundle install --no-cache --verbose
+          bundle exec jekyll build
           
       - name: Check if _site was created
         run: |
