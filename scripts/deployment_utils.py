@@ -200,3 +200,29 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+"""
+# Resumen del Script deployment_utils.py
+
+Este script proporciona herramientas para validar y preparar el sitio Jekyll antes del despliegue.
+Las funciones principales incluyen:
+
+1. **Validación de Configuración (_config.yml)**:  
+   - Verifica que el archivo `_config.yml` contenga las configuraciones esenciales para Jekyll.
+
+2. **Construcción del Sitio Jekyll**:  
+   - Ejecuta `bundle exec jekyll build` para generar la versión estática del sitio.
+
+3. **Validación de Archivos HTML**:  
+   - Revisa los archivos generados en `_site/` para verificar que tengan estructura HTML válida.
+
+4. **Generación de Informe de Despliegue**:  
+   - Crea un archivo de informe con detalles como la fecha, la rama actual, el commit y los resultados de las validaciones.
+
+5. **Modo de Ejecución**:  
+   - Si el script se ejecuta con `--validate-only`, solo valida `_config.yml`.  
+   - Con `--build-only`, solo construye el sitio.  
+   - Sin argumentos, ejecuta todo el flujo y genera el informe de despliegue.
+
+Este script ayuda a asegurar que el sitio Jekyll esté listo para ser publicado sin errores, facilitando la automatización del despliegue.
+"""
