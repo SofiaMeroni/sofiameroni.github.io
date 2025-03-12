@@ -14,7 +14,7 @@ WORKDIR /app
 COPY Gemfile* ./
 
 # Instalar gemas de Jekyll
-RUN bundle install
+RUN bundle install --verbose
 
 # Copiar el resto de los archivos del proyecto
 COPY . .
